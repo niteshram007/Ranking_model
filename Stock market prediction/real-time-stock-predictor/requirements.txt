@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+fastapi
+uvicorn
+websockets
+streamlit
+pydantic
+joblib
+matplotlib
+seaborn
+yfinance
